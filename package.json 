@@ -1,0 +1,13 @@
+{
+    "name": "aws-sdk-multipart",
+    "version": "0.1.0",
+    "description": "",
+    "author": "<plasticut@gmail.com>",
+    "dependencies": {
+    }
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/plasticut/aws-sdk-multipart.git"
+    },
+    "main": "./index.js"
+}
